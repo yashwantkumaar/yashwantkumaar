@@ -95,7 +95,6 @@ An intelligent AI assistant capable of answering questions, remembering user pre
 
 Python • Hugging Face • LLM • Vector Database
 
-🔗 Repository: https://github.com/YOUR_USERNAME
 
 ---
 
