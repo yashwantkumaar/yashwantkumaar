@@ -124,7 +124,7 @@ Python • Hugging Face • LLM • Vector Database
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwantkumaar&theme=tokyo-night"/>
 
 </p>
 
