@@ -1,224 +1,174 @@
 <h1 align="center">Hi 👋, I'm Yashwant Kumaar</h1>
 
-<h3 align="center">
-🚀 Full Stack Web Developer | AI Enthusiast | React Developer 
-</h3>
+<h3 align="center">🚀 Full Stack Developer | React & Spring Boot | AI / GenAI Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;React+%7C+JavaScript+%7C+Node.js;AI+%7C+Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Building+Real-World+Projects+Every+Day!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;React+%7C+Spring+Boot+%7C+Node.js;GenAI+%7C+RAG+%7C+LLM+Applications;Always+Learning+New+Technologies;Building+Real-World+Projects+Every+Day!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashwantkumaar&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/yashwantkumaar?style=flat&logo=github&color=58a6ff" alt="Followers" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Graduated with a B.E. in Electronics and communication Engineering.
-- 💻 Currently working as a Full Stack Developer at Wipro, specializing in React.js, Spring Boot, HTML5, CSS3, JavaScript, and MySQL.
-- 🌱 Currently expanding my expertise in Generative AI (GenAI), Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), AI Agents, Prompt Engineering, Vector Databases, Cloud Computing, DevOps, and System Design.
-- 🚀 Love building real-world applications that solve practical problems.
-- 🤝 Open to internships, collaborations, and open-source contributions.
-- 📚 Constantly improving my problem-solving and software development skills.
-- ⚡ Fun Fact: I enjoy turning ideas into real applications and continuously learning new technologies.
+- 🎓 B.E. in Electronics and Communication Engineering
+- 💻 Full Stack Developer at **Wipro** — React.js, Spring Boot, HTML5, CSS3, JavaScript, MySQL
+- 🌱 Expanding into **GenAI, RAG, LLMs, AI Agents, Prompt Engineering, Vector Databases, Cloud, DevOps and System Design**
+- 🚀 I love building real-world applications that solve practical problems
+- 🤝 Open to collaborations and open-source contributions
+- ⚡ **Fun fact:** I enjoy turning ideas into live products and shipping them
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/yashwant69">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://yash1portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:tsyashwantkumaar07112002@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/yashwant69">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://yash1portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/>
+  </a>
+  <a href="mailto:tsyashwantkumaar07112002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
+<!--
+  Add these once you have the links (replace YOUR_ID, then remove the comment markers):
+
+  <a href="https://leetcode.com/u/YOUR_ID">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/YOUR_ID">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+-->
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,python,java,c,git,github,vscode,figma,postman,npm,vite,tailwind,bootstrap,docker"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,spring,mongodb,mysql,firebase,python,java,c,docker,git,github,vscode,figma,postman,npm,vite,tailwind,bootstrap" alt="Tech stack"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎮 IGNITE – Truth or Dare Online Game
+### 🎮 IGNITE – Truth or Dare Online Game
 
-An interactive multiplayer Truth or Dare game with hundreds of unique questions, smooth animations, sound effects, leaderboard, and responsive design.
+An interactive multiplayer Truth or Dare game with hundreds of unique questions, smooth animations, sound effects, a leaderboard, and a fully responsive design.
 
-**Tech Stack**
+**Tech Stack:** `HTML` • `CSS` • `JavaScript` • `Netlify`
 
-HTML • CSS • JavaScript • Netlify
-
-🔗 Live Demo: https://truthordarewithfrndss.netlify.app/
-
+🔗 [Live Demo](https://truthordarewithfrndss.netlify.app/)
 
 ---
 
-## 🛒 E-Commerce Website
+### 🛒 E-Commerce Website
 
 A responsive shopping platform featuring authentication, product management, and cart functionality.
 
-**Tech Stack**
+**Tech Stack:** `React` • `Node.js` • `Express` • `MongoDB`
 
-React • Node.js • Express • MongoDB
-
-🔗 Live Demo: https://dpenterprisesupdated.netlify.app/
+🔗 [Live Demo](https://dpenterprisesupdated.netlify.app/)
 
 ---
 
-🏦 Loan Eligibility Prediction System
+### 🏦 Loan Eligibility Prediction System
 
-A full-stack web application that predicts loan eligibility based on user-provided financial information. The system securely manages customer data, validates inputs, and displays loan eligibility results through a responsive and user-friendly interface.
+A full-stack web application that predicts loan eligibility from user-provided financial information. It securely manages customer data, validates inputs, and shows eligibility results through a clean, responsive interface.
 
-Tech Stack
-
-React.js • Spring Boot • MySQL • REST API
-
-## 🧠 AI Assistant
-
-An intelligent AI assistant capable of answering questions, remembering user preferences, and supporting RAG architecture.
-
-**Tech Stack**
-
-Python • Hugging Face • LLM • Vector Database
-
+**Tech Stack:** `React.js` • `Spring Boot` • `MySQL` • `REST API`
 
 ---
 
-# 📊 GitHub Stats
+### 🧠 AI Assistant
+
+An intelligent AI assistant that answers questions, remembers user preferences, and supports a RAG architecture.
+
+**Tech Stack:** `Python` • `Hugging Face` • `LLM` • `Vector Database`
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashwantkumaar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantkumaar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantkumaar&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com/?user=yashwantkumaar&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwantkumaar&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwantkumaar&bg_color=0d1117&color=58a6ff&line=58a6ff&point_color=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=yashwantkumaar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies"/>
 </p>
 
 ---
 
-# 🛠 Currently Working On
+## 🛠 Currently Working On
 
-* 🤖 Building AI applications using **Generative AI (GenAI), RAG, and Large Language Models (LLMs)**.
-* 🌐 Developing scalable **Full Stack Web Applications** with **React.js, Spring Boot, and MySQL**.
-* ⚛️ Creating modern, responsive, and high-performance user interfaces using **React.js**.
-* 🔗 Integrating **REST APIs**, authentication, and backend services.
-* ☁️ Exploring **Cloud Technologies, DevOps, and CI/CD** for scalable application deployment.
-* 🚀 Building intelligent AI-powered solutions with **Vector Databases, Prompt Engineering, and AI Agents**.
-
+- 🤖 Building AI applications with **Generative AI, RAG, and Large Language Models**
+- 🌐 Developing scalable **full stack web apps** with **React.js, Spring Boot, and MySQL**
+- 🔗 Integrating **REST APIs**, authentication, and backend services
+- ☁️ Exploring **Cloud, DevOps, and CI/CD** for scalable deployment
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-* Generative AI (GenAI)
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* AI Agents & Agentic AI
-* Prompt Engineering
-* Vector Databases (ChromaDB, FAISS, Pinecone)
-* MCP (Model Context Protocol)
-* AI Application Development
-* DevOps & CI/CD
-* System Design
-
+![GenAI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1f6feb?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-0e8a16?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-d29922?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-e34c26?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/ChromaDB_|_FAISS_|_Pinecone-6f42c1?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps_&_CI/CD-2088FF?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-f78166?style=flat-square)
 
 ---
 
-# 🎯 Career Goals
+## 🎯 Career Goals
 
-- 🚀 Become a Software Development Engineer (SDE)
-- 🌍 Contribute to Open Source Projects
-- 🤖 Build AI-Powered Applications
-- ☁️ Master Cloud Computing & DevOps
-- 💼 Work at a Leading Product-Based Company
-- 📈 Continuously Improve Problem Solving Skills
-
----
-
-# 💡 Coding Profiles
-
-- 💻 LeetCode
-- 🟢 HackerRane
-
-(Add your profile links)
+- 🚀 Become a Software Development Engineer (SDE) at a leading product-based company
+- 🤖 Build AI-powered applications that people actually use
+- 🌍 Contribute to open-source projects
+- ☁️ Master cloud computing and DevOps
+- 📈 Keep sharpening problem-solving skills
 
 ---
 
-# ⚡ Fun Facts
-
-- 💙 I love building modern web applications.
-- 📖 I enjoy learning new technologies every day.
-- 🎯 I believe consistency beats talent.
-- 🚀 Always excited to solve real-world problems.
-
----
-
-# 💬 Favorite Quote
+## 💬 Favorite Quote
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
 
-<p align="center">
+<h3 align="center">⭐ Thanks for visiting my GitHub profile ⭐</h3>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my GitHub Profile ⭐
-
-</h3>
-
-<p align="center">
-
-If you like my work, consider giving ⭐ to my repositories and let's connect!
-
-</p>
+<p align="center">If you like my work, consider giving a ⭐ to my repositories — and let's connect!</p>
