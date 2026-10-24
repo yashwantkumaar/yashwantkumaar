@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashwant Kumaar</h1>
 
-<h3 align="center">🚀 Full Stack Developer | React & Spring Boot | AI / GenAI Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | React & Spring Boot | GenAI Tinkerer</h3>
+
+<p align="center"><i>I turn coffee into code, and code into things that (mostly) work on the first deploy.</i> ☕➡️💻</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;React+%7C+Spring+Boot+%7C+Node.js;GenAI+%7C+RAG+%7C+LLM+Applications;Always+Learning+New+Technologies;Building+Real-World+Projects+Every+Day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=console.log('Hello%2C+World!')+%F0%9F%91%8B;Full+Stack+Dev+by+day%2C+GenAI+nerd+by+night;It+works+on+my+machine+%E2%80%94+and+now+on+yours+too;Googling+errors+professionally+since+2023;Building+Real-World+Projects+Every+Day!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,12 +17,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. in Electronics and Communication Engineering
+- 🎓 B.E. in Electronics and Communication Engineering — I went from circuits to code, and the bugs followed me
 - 💻 Full Stack Developer at **Wipro** — React.js, Spring Boot, HTML5, CSS3, JavaScript, MySQL
-- 🌱 Expanding into **GenAI, RAG, LLMs, AI Agents, Prompt Engineering, Vector Databases, Cloud, DevOps and System Design**
-- 🚀 I love building real-world applications that solve practical problems
+- 🌱 Currently levelling up in **GenAI, RAG, LLMs, AI Agents, Vector Databases, Cloud, DevOps and System Design**
+- 🚀 I love building real-world apps that solve real problems (and occasionally ones that make my friends argue over Truth or Dare)
 - 🤝 Open to collaborations and open-source contributions
-- ⚡ **Fun fact:** I enjoy turning ideas into live products and shipping them
+- ⚡ **Fun fact:** my favourite design pattern is "make it work, then make it pretty, then make it fast"
 
 ---
 
@@ -63,7 +65,7 @@
 
 ### 🎮 IGNITE – Truth or Dare Online Game
 
-An interactive multiplayer Truth or Dare game with hundreds of unique questions, smooth animations, sound effects, a leaderboard, and a fully responsive design.
+Friendships tested, secrets exposed, zero refunds. 😄 An interactive multiplayer Truth or Dare game with hundreds of questions, smooth animations, sound effects, a leaderboard, and a fully responsive design.
 
 **Tech Stack:** `HTML` • `CSS` • `JavaScript` • `Netlify`
 
@@ -73,7 +75,7 @@ An interactive multiplayer Truth or Dare game with hundreds of unique questions,
 
 ### 🛒 E-Commerce Website
 
-A responsive shopping platform featuring authentication, product management, and cart functionality.
+Add to cart, regret nothing. A responsive shopping platform with authentication, product management, and cart functionality.
 
 **Tech Stack:** `React` • `Node.js` • `Express` • `MongoDB`
 
@@ -83,7 +85,7 @@ A responsive shopping platform featuring authentication, product management, and
 
 ### 🏦 Loan Eligibility Prediction System
 
-A full-stack web application that predicts loan eligibility from user-provided financial information. It securely manages customer data, validates inputs, and shows eligibility results through a clean, responsive interface.
+Tells you whether the bank will say yes — before the bank does. A full-stack app that predicts loan eligibility from financial inputs, securely manages customer data, validates everything, and shows results in a clean, responsive UI.
 
 **Tech Stack:** `React.js` • `Spring Boot` • `MySQL` • `REST API`
 
@@ -91,7 +93,7 @@ A full-stack web application that predicts loan eligibility from user-provided f
 
 ### 🧠 AI Assistant
 
-An intelligent AI assistant that answers questions, remembers user preferences, and supports a RAG architecture.
+Like a very patient intern that never sleeps. Answers questions, remembers user preferences, and supports a RAG architecture.
 
 **Tech Stack:** `Python` • `Hugging Face` • `LLM` • `Vector Database`
 
@@ -117,25 +119,31 @@ An intelligent AI assistant that answers questions, remembers user preferences, 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwantkumaar&bg_color=0d1117&color=58a6ff&line=58a6ff&point_color=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
+  <img src="https://ghchart.rshah.org/58a6ff/yashwantkumaar" alt="Contribution graph" width="90%"/>
 </p>
+
+<p align="center"><i>Every green square is a commit. Every grey square is a weekend. 😌</i></p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements Unlocked
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashwantkumaar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies"/>
+  <img src="https://img.shields.io/badge/🏅_Shipped-Real_Projects_to_Production-2ea44f?style=for-the-badge" alt="Shipped"/>
+  <img src="https://img.shields.io/badge/🐛_Fixed-Bugs_I_Also_Created-d73a49?style=for-the-badge" alt="Bugs"/>
+  <img src="https://img.shields.io/badge/🔍_Mastered-Googling_Stack_Overflow-f48024?style=for-the-badge" alt="Googling"/>
+  <img src="https://img.shields.io/badge/☕_Level-Caffeinated-6f4e37?style=for-the-badge" alt="Coffee"/>
+  <img src="https://img.shields.io/badge/🚀_Deploys-Friday_(Brave)-8a2be2?style=for-the-badge" alt="Friday deploys"/>
 </p>
 
 ---
 
 ## 🛠 Currently Working On
 
-- 🤖 Building AI applications with **Generative AI, RAG, and Large Language Models**
-- 🌐 Developing scalable **full stack web apps** with **React.js, Spring Boot, and MySQL**
-- 🔗 Integrating **REST APIs**, authentication, and backend services
-- ☁️ Exploring **Cloud, DevOps, and CI/CD** for scalable deployment
+- 🤖 Building AI apps with **Generative AI, RAG, and LLMs** (teaching machines to read so I don't have to)
+- 🌐 Developing scalable **full stack apps** with **React.js, Spring Boot, and MySQL**
+- 🔗 Wiring up **REST APIs**, authentication, and backend services
+- ☁️ Exploring **Cloud, DevOps, and CI/CD** — so "it works on my machine" becomes "it works everywhere"
 
 ---
 
@@ -155,11 +163,23 @@ An intelligent AI assistant that answers questions, remembers user preferences, 
 
 ## 🎯 Career Goals
 
-- 🚀 Become a Software Development Engineer (SDE) at a leading product-based company
-- 🤖 Build AI-powered applications that people actually use
-- 🌍 Contribute to open-source projects
+- 🚀 Become an SDE at a leading product-based company
+- 🤖 Build AI-powered apps people actually use
+- 🌍 Contribute to open source
 - ☁️ Master cloud computing and DevOps
-- 📈 Keep sharpening problem-solving skills
+- 📈 Keep sharpening problem-solving skills (one LeetCode "Medium" at a time)
+
+---
+
+## 😄 Developer Life, Explained
+
+| What I say | What I mean |
+|---|---|
+| "Quick fix, 5 minutes" | See you tomorrow |
+| "It works on my machine" | Docker, please help |
+| "Just a small UI change" | Entire layout rewritten |
+| "I'll refactor later" | Later never arrives |
+| "No bugs found" | Tests were never written |
 
 ---
 
@@ -169,6 +189,6 @@ An intelligent AI assistant that answers questions, remembers user preferences, 
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my GitHub profile ⭐</h3>
+<h3 align="center">⭐ Thanks for visiting! ⭐</h3>
 
-<p align="center">If you like my work, consider giving a ⭐ to my repositories — and let's connect!</p>
+<p align="center">If this README made you smile, drop a ⭐ on my repos — it's the only "like" my code ever gets. 😄</p>
