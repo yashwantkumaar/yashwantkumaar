@@ -1,233 +1,475 @@
-<!-- ===================== HEADER BANNER ===================== -->
+
+<!--
+  YASHWANT KUMAAR TS — GITHUB PROFILE README
+
+  SETUP:
+  1. Save this file as README.md in your profile repository:
+     https://github.com/yashwantkumaar/yashwantkumaar
+  2. Add your banner image at assets/github-banner.png
+  3. Replace screenshot placeholders with real project screenshots.
+  4. Update repository links and certification URLs where needed.
+-->
+
+<!-- ==================== HERO SECTION ==================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8a2be2&height=220&section=header&text=Yashwant%20Kumaar&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%26%20Spring%20Boot%20%E2%80%A2%20GenAI&descSize=18&descAlignY=60&animation=fadeIn" alt="Yashwant Kumaar banner" width="100%"/>
+  <img src="assets/github-banner.png" alt="Yashwant Kumaar TS - Software Engineer" width="100%" />
 
-<a href="https://github.com/yashwantkumaar">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Yashwant+%F0%9F%91%8B;Full+Stack+Developer+at+Wipro;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot+%C2%B7+MySQL;Google+Cloud+Certified+Associate+Cloud+Engineer;Building+AI+apps+with+RAG+%26+LLMs;I+turn+coffee+into+code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
-</a>
+  <h1>Hi 👋, I'm Yashwant Kumaar TS</h1>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=yashwantkumaar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yashwantkumaar?style=for-the-badge&logo=github&color=58a6ff" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yashwantkumaar?style=for-the-badge&logo=github&color=f2cc60" alt="Stars" />
-</p>
+  <h3>Software Engineer | Full Stack Developer | Generative AI Enthusiast</h3>
 
-<p>
-  <a href="https://www.linkedin.com/in/yashwant69"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://yash1portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
-  <a href="mailto:tsyashwantkumaar07112002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+  <p>
+    Building useful software through clean code, thoughtful engineering,
+    and continuous learning.
+  </p>
 
-<i>I turn coffee into code, and code into things that (mostly) work on the first deploy.</i>
+  <p>
+    <a href="https://yash1portfolio.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/yashwant69">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:tsyashwantkumaar07112002@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=React+%7C+Spring+Boot+%7C+MySQL;Building+Full+Stack+Applications;Exploring+Generative+AI+%26+RAG;Turning+Ideas+Into+Working+Software" alt="Developer introduction"/>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=yashwantkumaar&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/yashwantkumaar?label=Followers&style=flat-square&color=58A6FF" alt="GitHub followers"/>
 
 </div>
 
-<!--
-  Add these once you have the links (replace YOUR_ID, then remove the comment markers):
-
-  <a href="https://leetcode.com/u/YOUR_ID"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/profile/YOUR_ID"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
--->
-
 ---
+
+<!-- ==================== ABOUT ME ==================== -->
 
 ## 👨‍💻 About Me
 
-```ts
-const yashwant = {
-  role: "Full Stack Developer @ Wipro",
-  education: "B.E. Electronics & Communication Engineering, RMK Engineering College (2024)",
-  certified: "Google Cloud Associate Cloud Engineer",
-  frontend: ["React.js", "TypeScript", "JavaScript", "HTML5", "CSS3"],
-  backend: ["Java", "Spring Boot", "Node.js", "Express", "Python"],
-  data: ["MySQL", "MongoDB", "ChromaDB"],
-  ai: ["Generative AI", "RAG", "LLMs", "Embeddings", "Vector DBs"],
-  currentlyLearning: ["AI Agents", "MCP", "DevOps & CI/CD", "System Design"],
-  openTo: ["Collaborations", "Open-source contributions"],
-  funFact: "make it work, then make it pretty, then make it fast",
-};
-```
+I'm a software developer at **Wipro**, with a B.E. in Electronics and Communication Engineering and a strong interest in building end-to-end software applications.
 
-- 🎓 Went from circuits to code, and the bugs followed me
-- 💻 Building enterprise front-end and full-stack apps at **Wipro**
-- ☁️ **Google Cloud Certified** Associate Cloud Engineer
-- 🤝 Open to collaborations and open-source contributions
+I enjoy working across frontend interfaces, backend services, databases, and AI-powered applications. I like turning ideas into practical projects, exploring new technologies, and improving my engineering skills through hands-on development.
+
+- 💼 **Profession:** Software Developer at Wipro
+- 🎓 **Education:** B.E. in Electronics and Communication Engineering
+- 🌐 **Core Focus:** Full Stack Development
+- ⚛️ **Frontend:** React.js, JavaScript, TypeScript, HTML, CSS
+- ☕ **Backend:** Java, Spring Boot, Node.js, REST APIs
+- 🗄️ **Databases:** MySQL, MongoDB, Firebase
+- 🤖 **AI Interests:** Generative AI, LLMs, RAG, embeddings, and AI agents
+- ☁️ **Cloud:** Google Cloud Associate Cloud Engineer certified
+- 🤝 **Interests:** Software engineering, open source, and AI product development
+
+> My goal is to engineer reliable, maintainable applications that solve real-world problems.
 
 ---
 
-## 💻 Tech Stack
+## 🧭 Quick Navigation
 
-<div align="center">
-
-| | |
-|:--|:--|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **AI / GenAI** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1f6feb?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square) |
-| **Cloud & Tools** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,spring,java,python,c,mongodb,mysql,firebase,docker,git,github,vscode,figma,postman,npm,vite,tailwind,bootstrap" alt="Tech stack icons"/>
-
-</div>
+- [Technical Skills](#-technical-skills)
+- [Featured Projects](#-featured-projects)
+- [Project Architecture](#-project-architecture)
+- [Project Screenshots](#-project-screenshots)
+- [Certifications](#-certifications)
+- [GitHub Statistics](#-github-statistics)
+- [Currently Learning](#-currently-learning)
+- [Career Goals](#-career-goals)
+- [Connect With Me](#-lets-connect)
 
 ---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🧰 Technical Skills
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" alt="Frontend technologies"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python" alt="Backend technologies"/>
+</p>
+
+### Databases and Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,gcp" alt="Database and cloud technologies"/>
+</p>
+
+### AI and Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma,vite,npm" alt="Developer tools"/>
+</p>
+
+| Category | Technologies |
+|---|---|
+| Languages | Java, JavaScript, TypeScript, Python, C |
+| Frontend | React.js, Redux, HTML5, CSS3, Bootstrap, Tailwind CSS |
+| Backend | Spring Boot, Node.js, Express.js, REST APIs |
+| Databases | MySQL, MongoDB, Firebase |
+| AI and ML | LLMs, RAG, Hugging Face, embeddings, vector databases |
+| Cloud and DevOps | Google Cloud, Docker, Git, GitHub, CI/CD fundamentals |
+| Tools | VS Code, Android Studio, Postman, Vite, npm |
+| Exploring | MCP, AI agents, system design, scalable architectures |
+
+*The table includes technologies I work with and areas I am actively exploring.*
+
+---
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 IGNITE: Truth or Dare Online Game</h3>
-      <p><i>Friendships tested, secrets exposed, zero refunds. 😄</i></p>
-      <p>Interactive Truth or Dare game with hundreds of questions, smooth animations, sound effects, a leaderboard and a fully responsive design.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-      </p>
-      <a href="https://truthordarewithfrndss.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%97-2ea44f?style=for-the-badge"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 E-Commerce Website</h3>
-      <p><i>Add to cart, regret nothing.</i></p>
-      <p>Responsive shopping platform with authentication, product management, cart functionality and a REST backend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-      <a href="https://dpenterprisesupdated.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%97-2ea44f?style=for-the-badge"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 Loan Eligibility Prediction System</h3>
-      <p><i>Tells you whether the bank will say yes, before the bank does.</i></p>
-      <p>Full-stack app that assesses loan eligibility from financial inputs, validates data, manages customer records and presents results in a clean, responsive UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_API-0d1117?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 AI Assistant (RAG)</h3>
-      <p><i>Like a very patient intern that never sleeps.</i></p>
-      <p>Answers questions with context using LLMs and Retrieval-Augmented Generation: embeddings, semantic retrieval and vector search.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-        <img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Vector_DB-FF6446?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+A selection of projects showcasing my interests in full-stack development, interactive applications, and AI.
+
+### 🎮 1. IGNITE — Multiplayer Truth or Dare
+
+**An interactive game built for memorable game nights.**
+
+A responsive Truth or Dare experience featuring a collection of questions, animations, sound effects, and a leaderboard.
+
+**Key features**
+- Interactive Truth or Dare gameplay
+- Responsive interface for different screen sizes
+- Animated user interactions and sound effects
+- Leaderboard and game-focused UI
+
+**Tech stack:** `HTML` `CSS` `JavaScript` `Netlify`
+
+**[🎮 Play Live Demo](https://truthordarewithfrndss.netlify.app/)**
 
 ---
 
-## 📊 GitHub Analytics
+### 🛒 2. E-Commerce Website
 
-<div align="center">
+**A web application for essential online shopping workflows.**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashwantkumaar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantkumaar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+A responsive shopping application built around product browsing, authentication, cart functionality, and product management.
 
-<img src="https://streak-stats.demolab.com/?user=yashwantkumaar&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+**Key features**
+- Product browsing and shopping cart
+- User authentication workflows
+- Product management
+- Frontend-to-backend integration
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwantkumaar&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%"/>
+**Tech stack:** `React` `Node.js` `Express` `MongoDB`
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashwantkumaar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-
-<br/>
-<i>Every green square is a commit. Every grey square is a weekend. 😌</i>
-
-</div>
+**[🛍️ Explore Live Demo](https://dpenterprisesupdated.netlify.app/)**
 
 ---
 
-## 🛠 Currently Working On
+### 🏦 3. Loan Eligibility Prediction System
 
-| | Focus | What I'm doing |
-|:--:|:--|:--|
-| 🤖 | **AI-powered apps** | Generative AI, RAG and LLMs: retrieval pipelines, embeddings, vector search |
-| 🌐 | **Scalable full-stack apps** | React.js + TypeScript on the front, Spring Boot + MySQL on the back |
-| 🔗 | **APIs & auth** | REST APIs, authentication and backend services |
-| ☁️ | **Cloud & DevOps** | Google Cloud, CI/CD and containers, so "works on my machine" becomes "works everywhere" |
+**A full-stack application concept for loan eligibility evaluation.**
 
-### 📚 Currently Learning
+An application designed to collect financial inputs, evaluate eligibility, and present results through a clean interface.
 
-![GenAI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-1f6feb?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-0e8a16?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-d29922?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-e34c26?style=for-the-badge)
-![Vector DBs](https://img.shields.io/badge/ChromaDB_|_FAISS_|_Pinecone-6f42c1?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps_&_CI/CD-2088FF?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-f78166?style=for-the-badge)
+**Key features**
+- Structured financial input forms
+- Input validation
+- REST API integration
+- Database-backed customer data management
+- Eligibility prediction workflow
+
+**Tech stack:** `React.js` `Spring Boot` `MySQL` `REST APIs`
+
+**Repository:** [Add your GitHub repository URL](https://github.com/yashwantkumaar)
 
 ---
 
-## 🏆 Highlights
+### 🤖 4. Parkeet AI — Desktop AI Assistant
 
-<div align="center">
+**Exploring local AI models and desktop application integration.**
 
-![Google Cloud Certified](https://img.shields.io/badge/☁️_Google_Cloud-Certified_Associate_Cloud_Engineer-4285F4?style=for-the-badge)
-![Wipro](https://img.shields.io/badge/💼_Wipro-Software_Engineer-1f6feb?style=for-the-badge)
-![Shipped](https://img.shields.io/badge/🏅_Shipped-Real_Projects_to_Production-2ea44f?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/☕_Level-Caffeinated-6f4e37?style=for-the-badge)
-![Friday deploys](https://img.shields.io/badge/🚀_Deploys-Friday_(Brave)-8a2be2?style=for-the-badge)
+An experimental desktop AI assistant combining an Electron interface, a Node.js backend, Ollama, and a local language model.
 
-</div>
+**Key features**
+- Desktop application using Electron
+- Local LLM integration through Ollama
+- Express backend and API communication
+- Exploration of MCP-based agent workflows
+- Local AI experimentation
+
+**Tech stack:** `Electron` `Node.js` `Express` `Ollama` `Qwen 2.5 Coder` `REA MCP`
+
+**Repository:** [Add your Parkeet AI repository URL](https://github.com/yashwantkumaar)
 
 ---
+
+### 🧠 5. AI Interview Preparation Platform
+
+**Exploring AI-assisted interview practice.**
+
+An AI interview project combining resume analysis, mock interview workflows, language model integration, and speech recognition.
+
+**Key features**
+- Resume analysis workflow
+- Mock interview experience
+- Speech recognition integration
+- AI-generated interview interactions
+
+**Tech stack:** `Python` `Flask` `LLM APIs` `Vosk`
+
+**Repository:** [Add your GitHub repository URL](https://github.com/yashwantkumaar)
+
+---
+
+### 🎬 6. DeepFake Video Detection
+
+**A deep learning project exploring video authenticity classification.**
+
+A project combining visual feature extraction and temporal modeling to investigate the classification of potentially manipulated videos.
+
+**Key features**
+- Video feature extraction
+- Deep learning-based classification
+- Temporal sequence modeling
+- Flask-based application integration
+
+**Tech stack:** `Python` `ResNeXt` `LSTM` `Flask`
+
+**Repository:** [Add your GitHub repository URL](https://github.com/yashwantkumaar)
+
+---
+
+<!-- ==================== ARCHITECTURE ==================== -->
+
+## 🏗️ Project Architecture
+
+### Full Stack Application
+
+The following diagram illustrates a typical architecture for a React and Spring Boot application.
+
+```mermaid
+flowchart TD
+    A[User] --> B[React Frontend]
+    B --> C[REST API Requests]
+    C --> D[Spring Boot Backend]
+    D --> E[Validation and Business Logic]
+    E --> F[MySQL Database]
+    F --> E
+    E --> D
+    D --> B
+    B --> G[Results and User Interface]
+```
+
+### Local AI Assistant
+
+Illustrative architecture for the Parkeet AI development project.
+
+```mermaid
+flowchart TD
+    A[User] --> B[Electron Desktop UI]
+    B --> C[Node.js and Express]
+    C --> D[Ollama Local API]
+    D --> E[Local Language Model]
+    E --> D
+    D --> C
+    C --> B
+    B --> A
+    C -. Agent integration exploration .-> F[REA MCP]
+```
+
+*These diagrams show the intended high-level architecture. Adapt them to match the final implementation in each repository.*
+
+---
+
+<!-- ==================== PROJECT SCREENSHOTS ==================== -->
+
+## 🖼️ Project Screenshots
+
+Add real screenshots of your projects to make your profile more visual and help recruiters understand your work quickly.
+
+### IGNITE — Truth or Dare
+
+<!-- Add your screenshot to assets/ignite.png -->
+
+<p align="center">
+  <img src="assets/ignite.png" width="85%" alt="IGNITE Truth or Dare project screenshot"/>
+</p>
+
+<p align="center">
+  <a href="https://truthordarewithfrndss.netlify.app/">Open Live Demo</a>
+</p>
+
+### E-Commerce Website
+
+<!-- Add your screenshot to assets/ecommerce.png -->
+
+<p align="center">
+  <img src="assets/ecommerce.png" width="85%" alt="E-Commerce website screenshot"/>
+</p>
+
+<p align="center">
+  <a href="https://dpenterprisesupdated.netlify.app/">Open Live Demo</a>
+</p>
+
+### Parkeet AI
+
+<!-- Add your screenshot to assets/parkeet-ai.png -->
+
+<p align="center">
+  <img src="assets/parkeet-ai.png" width="85%" alt="Parkeet AI desktop assistant screenshot"/>
+</p>
+
+*Create the `assets` directory in your profile repository and upload your actual screenshots. Until those files exist, the image placeholders will not display.*
+
+---
+
+<!-- ==================== PROJECT QUALITY ==================== -->
+
+## 📈 Engineering Quality and Impact
+
+I aim to improve not just what my applications do, but how reliably and efficiently they do it.
+
+| Area | What to demonstrate |
+|---|---|
+| Code quality | Readable, maintainable components and clear project structure |
+| Testing | Unit tests, integration tests, and meaningful test cases |
+| API design | Validation, appropriate HTTP status codes, and error handling |
+| Performance | Measured response times and optimization results |
+| Reliability | Reproducible setup, clear dependencies, and error handling |
+| Documentation | Setup instructions, API documentation, and architecture diagrams |
+| Deployment | Working demos and documented deployment processes |
+
+### Project Metrics
+
+Add verified measurements when you have them.
+
+- **Automated tests:** Add your actual test count and results.
+- **API performance:** Add measured latency and test conditions.
+- **Code coverage:** Add the percentage from your coverage report.
+- **Performance improvements:** Document the baseline and measured result.
+- **Project adoption:** Add verified usage figures, if available.
+
+*No performance or adoption figures are claimed here because they should be supported by actual project measurements.*
+
+---
+
+<!-- ==================== CERTIFICATIONS ==================== -->
+
+## 🎓 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Associate Cloud Engineer"/>
+</p>
+
+- **Google Cloud Associate Cloud Engineer**
+- Wipro TalentNext
+- Full-Stack Development
+- C and Python certifications
+
+*Add credential verification links and issuing organizations where available.*
+
+---
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashwantkumaar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantkumaar&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yashwantkumaar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/yashwantkumaar" alt="GitHub contribution graph" width="95%"/>
+</p>
+
+<p align="center">
+  <i>Consistent learning, practical projects, and continuous improvement.</i>
+</p>
+
+---
+
+<!-- ==================== LEARNING ==================== -->
+
+## 📚 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/RAG-1F6FEB?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLMs-0E8A16?style=flat-square" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/AI_Agents-D29922?style=flat-square" alt="AI agents"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-6F42C1?style=flat-square" alt="Vector databases"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Cloud_&_DevOps-2088FF?style=flat-square" alt="Cloud and DevOps"/>
+  <img src="https://img.shields.io/badge/System_Design-F78166?style=flat-square" alt="System design"/>
+</p>
+
+- 🤖 Building applications powered by language models
+- 🔎 Exploring retrieval pipelines, embeddings, and vector search
+- 🔗 Learning about AI tool integration and MCP
+- ☕ Improving backend development with Java and Spring Boot
+- ☁️ Exploring cloud deployment and CI/CD practices
+- 🧱 Strengthening software architecture and system design fundamentals
+
+---
+
+<!-- ==================== CAREER GOALS ==================== -->
 
 ## 🎯 Career Goals
 
-- 🚀 Become an SDE at a leading product-based company
-- 🤖 Build AI-powered apps people actually use
-- 🌍 Contribute to open source
-- ☁️ Master cloud computing and DevOps
-- 📈 Keep sharpening problem-solving skills, one LeetCode "Medium" at a time
+- Build production-ready applications that solve practical problems.
+- Strengthen full-stack and backend engineering skills.
+- Develop AI-powered tools with meaningful user value.
+- Contribute to open-source software.
+- Improve problem-solving, testing, and system design.
+- Grow into a software engineer capable of designing and delivering reliable systems.
 
 ---
 
-<details>
-<summary><b>😄 Developer Life, Explained (click to expand)</b></summary>
+<!-- ==================== DEVELOPER PHILOSOPHY ==================== -->
 
-<br/>
+## 💡 Engineering Philosophy
 
-| What I say | What I mean |
-|---|---|
-| "Quick fix, 5 minutes" | See you tomorrow |
-| "It works on my machine" | Docker, please help |
-| "Just a small UI change" | Entire layout rewritten |
-| "I'll refactor later" | Later never arrives |
-| "No bugs found" | Tests were never written |
+- **Understand the problem** before choosing a solution.
+- **Write maintainable code** that other developers can understand.
+- **Test assumptions** instead of relying on guesses.
+- **Document decisions** so projects are easier to run and extend.
+- **Keep learning** because software engineering never stands still.
 
-</details>
-
-> **"First, solve the problem. Then, write the code."** — John Johnson
+> First, solve the problem. Then, write the code.
 
 ---
+
+<!-- ==================== CONTACT ==================== -->
+
+## 🤝 Let's Connect
+
+I'm interested in software engineering, full-stack development, AI applications, and opportunities to collaborate on useful projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashwant69">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://yash1portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/>
+  </a>
+  <a href="mailto:tsyashwantkumaar07112002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <div align="center">
 
-### 🤝 Let's build something together
+  ### ⭐ Thanks for visiting my profile!
 
-<a href="https://www.linkedin.com/in/yashwant69"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://yash1portfolio.netlify.app/"><img src="https://img.shields.io/badge/Visit_my_Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7"/></a>
-<a href="mailto:tsyashwantkumaar07112002@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-<i>If this profile made you smile, drop a ⭐ on my repos. It's the only "like" my code ever gets. 😄</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+  **Building today. Learning every day. Engineering a better tomorrow. 🚀**
 
 </div>
